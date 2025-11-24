@@ -13,7 +13,7 @@ It involves selecting a real-world thermodynamic device or system covered in the
 I chose to analyze a heat exchanger. 
 
 
-![Heat exchanger setup]({{ "/assets/images/heat-exchanger-2.jpeg" | relative_url }}){: style="width: 200px"}
+![Heat exchanger setup]({{ "/assets/images/heat-exchanger-2.jpeg" | relative_url }}){: style="width: 600px"}
 
 
 The analysis equations are depictions of the experiment can be found above. 
