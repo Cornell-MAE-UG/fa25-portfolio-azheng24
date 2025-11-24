@@ -13,4 +13,4 @@ It involves selecting a real-world thermodynamic device or system covered in the
 I chose to analyze a heat exchanger. 
 
 
-![Analysis]({{ "/assets/images/heat-exchanger-2.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Analysis]({ "/assets/images/heat-exchanger-2.jpeg"}){:style="width: 200px"}
