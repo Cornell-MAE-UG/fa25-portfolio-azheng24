@@ -3,7 +3,7 @@ layout: project
 title: Heat Exchanger Analysis
 description: MAE 2210 class
 technologies: [Hand Calculations]
-image: /assets/images/lifting-design.jpg
+image: /assets/images/heat-exchanger.jpg
 ---
 
 This project is a class project for ENGRD 2210 – Thermodynamics.
