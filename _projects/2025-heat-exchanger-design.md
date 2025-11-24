@@ -12,13 +12,18 @@ It involves selecting a real-world thermodynamic device or system covered in the
 
 I chose to analyze a heat exchanger. 
 
+Setup:  
+This is an example of the heat exchanger in parallel flow.
+
+![Heat exchanger setup]({{ "/assets/images/heat-exchanger.jpeg" | relative_url }}){: style="width: 600px"}
+
+Analysis:
 
 ![Heat exchanger setup]({{ "/assets/images/heat-exchanger-2.jpeg" | relative_url }}){: style="width: 600px"}
 
 
-The analysis equations are depictions of the experiment can be found above. 
-
-**Results:**
+**Results:**  
+---  
 Parallel Flow Temperatures: 
 
 Initial cold: 7.3°C  
