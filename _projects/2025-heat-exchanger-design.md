@@ -21,26 +21,26 @@ The analysis equations are depictions of the experiment can be found above.
 **Results:**
 Parallel Flow Temperatures: 
 
-Initial cold: 7.3°C
-Initial hot: 39.5°C
+Initial cold: 7.3°C  
+Initial hot: 39.5°C  
 
-Final cold: 18.7°C
-Final hot: 22.3°C
+Final cold: 18.7°C  
+Final hot: 22.3°C  
 
-∆T for cold: 11.4°C
-∆T for hot: -17.2°C
+∆T for cold: 11.4°C  
+∆T for hot: -17.2°C  
 
 
 Counter Flow Temperatures:
 
-Initial cold: 5.3°C
-Initial hot: 39.9°C
+Initial cold: 5.3°C  
+Initial hot: 39.9°C  
 
-Final cold: 22.2°C
-Final hot: 18.2°C
+Final cold: 22.2°C  
+Final hot: 18.2°C  
 
-∆T for cold: 16.9°C
-∆T for hot: -21.7°C
+∆T for cold: 16.9°C  
+∆T for hot: -21.7°C  
 
 Based on this data, we can conclude that counterflow heat exchangers are generally considered better than parallel flow heat exchangers for heat transfer. 
 
