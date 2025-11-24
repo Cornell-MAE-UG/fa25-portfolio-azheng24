@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Albert Zheng
 description              : Albert Zheng - Projects and CV 
-baseurl                  : "/fa25-portfolio-azheng24" # Set this to your repo name 
+baseurl                  : "/portfolio-azheng24" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
