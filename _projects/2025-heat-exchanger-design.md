@@ -12,12 +12,12 @@ It involves selecting a real-world thermodynamic device or system covered in the
 
 I chose to analyze a heat exchanger. 
 
-Setup:  
+**Setup:**  
 This is an example of the heat exchanger in parallel flow.
 
 ![Heat exchanger setup]({{ "/assets/images/heat-exchanger.jpeg" | relative_url }}){: style="width: 600px"}
 
-Analysis:
+**Analysis:**
 
 ![Heat exchanger setup]({{ "/assets/images/heat-exchanger-2.jpeg" | relative_url }}){: style="width: 600px"}
 
