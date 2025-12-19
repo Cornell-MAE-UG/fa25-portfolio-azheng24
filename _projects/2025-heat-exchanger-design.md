@@ -35,21 +35,29 @@ This is an example of the heat exchanger in **counterflow**. The hot and cold fl
 
 **Results:**  
 ---  
-### Parallel Flow Temperatures
+#### Parallel Flow Temperatures
 
-| Measurement | Cold (°C) | Hot (°C) |
-|---|---:|---:|
-| Initial | 7.3 | 39.5 |
-| Final | 18.7 | 22.3 |
-| ∆T | 11.4 | -17.2 |
++-------------+-----------+----------+
+| Measurement | Cold (°C) | Hot (°C)  |
++-------------+-----------+----------+
+| Initial     | 7.3       | 39.5     |
++-------------+-----------+----------+
+| Final       | 18.7      | 22.3     |
++-------------+-----------+----------+
+| ∆T          | 11.4      | -17.2    |
++-------------+-----------+----------+
 
-### Counter Flow Temperatures
+#### Counter Flow Temperatures
 
-| Measurement | Cold (°C) | Hot (°C) |
-|---|---:|---:|
-| Initial | 5.3 | 39.9 |
-| Final | 22.2 | 18.2 |
-| ∆T | 16.9 | -21.7 |
++-------------+-----------+----------+
+| Measurement | Cold (°C) | Hot (°C)  |
++-------------+-----------+----------+
+| Initial     | 5.3       | 39.9     |
++-------------+-----------+----------+
+| Final       | 22.2      | 18.2     |
++-------------+-----------+----------+
+| ∆T          | 16.9      | -21.7    |
++-------------+-----------+----------+
 
 
 Based on this data, we can conclude that counterflow heat exchangers are generally considered better than parallel flow heat exchangers for heat transfer. 
