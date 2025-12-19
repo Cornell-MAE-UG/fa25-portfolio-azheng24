@@ -62,6 +62,7 @@ In this analysis, I take a look at making the system boundary for a single flow 
 
 ![Heat exchanger further analysis]({{ "/assets/images/heat-exchanger-3.jpeg" | relative_url }}){: style="width: 600px"}
 
+From this analysis, we can see that the heat transfer is directly proportional to the change in inlet and outlet temperatures.
 
 
 ## Conclusion
