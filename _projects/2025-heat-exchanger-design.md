@@ -56,6 +56,8 @@ This is an example of the heat exchanger in **counterflow**. The hot and cold fl
 
 
 ## Further Analysis:
+---  
+
 In this analysis, I take a look at making the system boundary for a single flow in the exchanger to examine the relationship between change in temperature(∆T) and heat transfer(Q). 
 
 ![Heat exchanger further analysis]({{ "/assets/images/heat-exchanger-3.jpeg" | relative_url }}){: style="width: 600px"}
@@ -63,6 +65,7 @@ In this analysis, I take a look at making the system boundary for a single flow 
 
 
 ## Conclusion
+---  
 
 Based on this data and analysis, we can conclude that counterflow heat exchangers are generally considered better than parallel flow heat exchangers for heat transfer. 
 
