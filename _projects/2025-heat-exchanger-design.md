@@ -11,21 +11,26 @@ image: /assets/images/heat-exchanger.jpeg
 
 This project is a class project for ENGRD 2210 – Thermodynamics.
 
-It involves selecting a real-world thermodynamic device or system covered in the course—such as a heat exchanger, pump, refrigerator, engine, or turbine—and explaining in detail how it operates using system diagrams, photos or schematics, and the appropriate mass, energy, and entropy balance equations. The core objective is to demonstrate a clear understanding of the underlying thermodynamic principles and then analyze how a specific design or operating change (such as altered flow rates, modified temperatures, or a different configuration) would affect system performance.
+It involves selecting a real-world thermodynamic device or system covered in the course—such as a heat exchanger, pump, refrigerator, engine, or turbine—and explaining in detail how it operates using system diagrams, photos or schematics, and the appropriate mass, energy, and entropy balance equations. The core objective is to demonstrate a clear understanding of the underlying thermodynamic principles and then analyze how a specific design or operating change would affect system performance.
 
 I chose to analyze a heat exchanger. 
 
 **Setup:**  
 ---  
 
-This is an example of the heat exchanger in parallel flow.
+This is an example of the heat exchanger in **parallel flow**. The hot and cold flow in the same direction.
 
-![Heat exchanger setup]({{ "/assets/images/heat-exchanger.jpeg" | relative_url }}){: style="width: 600px"}
+![Heat exchanger parallel setup]({{ "/assets/images/heat-exchanger-parallel.jpeg" | relative_url }}){: style="width: 600px"}
+
+This is an example of the heat exchanger in **counterflow**. The hot and cold flow in opposite directions.
+
+![Heat exchanger counter setup]({{ "/assets/images/heat-exchanger-counter.jpeg" | relative_url }}){: style="width: 600px"}
+
 
 **Analysis:**
 ---  
 
-![Heat exchanger setup]({{ "/assets/images/heat-exchanger-2.jpeg" | relative_url }}){: style="width: 600px"}
+![Heat exchanger analysis]({{ "/assets/images/heat-exchanger-2.jpeg" | relative_url }}){: style="width: 600px"}
 
 
 **Results:**  
