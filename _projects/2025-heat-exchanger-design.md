@@ -37,19 +37,23 @@ This is an example of the heat exchanger in **counterflow**. The hot and cold fl
 ---  
 ##### Parallel Flow Temperatures
 
-| Measurement   | Cold (°C)   | Hot (°C)    |
-|:-------------|------------:|------------:|
-| Initial       | 7.3         | 39.5        |
-| Final         | 18.7        | 22.3        |
-| ∆T            | 11.4        | -17.2       |
+| Measurement&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Cold (°C)&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hot (°C)&nbsp;&nbsp;&nbsp; |
+|:-----------------------------|----------------------------------------------:|---------------------------------------------:|
+| Initial&nbsp;&nbsp;&nbsp;     | &nbsp;&nbsp;7.3&nbsp;&nbsp;                   | &nbsp;&nbsp;39.5&nbsp;&nbsp;                 |
+| Final&nbsp;&nbsp;&nbsp;       | &nbsp;&nbsp;18.7&nbsp;&nbsp;                  | &nbsp;&nbsp;22.3&nbsp;&nbsp;                 |
+| ∆T&nbsp;&nbsp;&nbsp;          | &nbsp;&nbsp;11.4&nbsp;&nbsp;                  | &nbsp;&nbsp;-17.2&nbsp;&nbsp;                |
 
 ##### Counter Flow Temperatures
 
-| Measurement   | Cold (°C)   | Hot (°C)    |
-|:-------------|------------:|------------:|
-| Initial       | 5.3         | 39.9        |
-| Final         | 22.2        | 18.2        |
-| ∆T            | 16.9        | -21.7       |
+| Measurement&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Cold (°C)&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hot (°C)&nbsp;&nbsp;&nbsp; |
+|:-----------------------------|----------------------------------------------:|---------------------------------------------:|
+| Initial&nbsp;&nbsp;&nbsp;     | &nbsp;&nbsp;5.3&nbsp;&nbsp;                   | &nbsp;&nbsp;39.9&nbsp;&nbsp;                 |
+| Final&nbsp;&nbsp;&nbsp;       | &nbsp;&nbsp;22.2&nbsp;&nbsp;                  | &nbsp;&nbsp;18.2&nbsp;&nbsp;                 |
+| ∆T&nbsp;&nbsp;&nbsp;          | &nbsp;&nbsp;16.9&nbsp;&nbsp;                  | &nbsp;&nbsp;-21.7&nbsp;&nbsp;                |
+
+
+
+**Further Analysis:**
 
 
 Based on this data, we can conclude that counterflow heat exchangers are generally considered better than parallel flow heat exchangers for heat transfer. 
