@@ -45,11 +45,9 @@ The NY grape industry is valued at $16.81 billion annually, but the increase in 
 
 Focus on questions they can answer from lived experience.
 
-1. Is this design worth pursuing due to the complex nature of what attracts SLFs?  
-   *Decision affected:*
-2. Could this design work to eliminate or minimize the amount of SLF on grape vines?  
-   *Decision affected:*
-3. What scents could attract SLF better than grape vines and have minimal harm on pollinators?  
-   *Decision affected:*
-4. How does one identify live hotspot locations for SLFs?  
-   *Decision affected:*
+1. Is this design worth pursuing due to the complex nature of what attracts SLFs?
+2. Could this design work to eliminate or minimize the amount of SLF on grape vines?
+3. What scents could attract SLF better than grape vines and have minimal harm on pollinators? 
+4. How does one identify live hotspot locations for SLFs?
+5. Can we hang this device on an existing Tree of Heaven/grape vine hotspot for SLF so we can eliminate the scent-releasing mechanism and focus on the trap/elimination method?
+
