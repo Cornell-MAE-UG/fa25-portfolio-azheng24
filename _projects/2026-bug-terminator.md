@@ -38,8 +38,8 @@ The NY grape industry is valued at $16.81 billion annually, but the increase in 
 
 ## Key risks / unknowns
 
-- Potential ecological impact on non-target species: Our device’s mechanisms might attract and harm pollinators and beneficial predators, affecting the vineyards’ ecosystem.
-- Maintenance and Usability: Devices require routine maintenance (clear dead insects, refill chemicals, supply power) across many acres of land, thus needing additional labor to operate. To desrisk
+- Potential ecological impact on non-target species: Our device’s mechanisms might attract and harm pollinators and beneficial predators, affecting the vineyards’ ecosystem. To derisk: we can use a scent that minimizes the harm done to pollinators and conduct small-scale field tests.
+- Maintenance and Usability: Devices require routine maintenance (clear dead insects, refill chemicals, supply power) across many acres of land, thus needing additional labor to operate. To derisk, a bigger capacity can be used to reduce the required maintenance times.
 
 ## Questions for the client
 
