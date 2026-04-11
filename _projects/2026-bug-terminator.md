@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Bug Terminator - Client Design
+title: MAE 2250
 description: MAE 2250
 technologies:
 image:
