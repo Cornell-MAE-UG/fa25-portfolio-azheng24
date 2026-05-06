@@ -13,6 +13,7 @@ image:
 ## Table of Contents
 - [Client Design](#client-design)
 - [Functional Prototype](#functional-prototype)
+- [Client Report](#client-report)
 
 ---
 
@@ -328,3 +329,80 @@ The prototype will be demonstrated by performing multiple full expansion and con
 
 **What the Audience Will Observe:**  
 The audience will observe the structure transitioning smoothly between a fully enclosed state (protecting the grapevines) and a fully open state (allowing access for harvesting). They will see coordinated motion between the scissor linkage and the wheel–rail system, with minimal jamming or interruption. The mesh enclosure will maintain its tension and coverage throughout the motion, clearly demonstrating its ability to function as a protective barrier while remaining flexible and retractable.
+
+
+---
+
+<a id="client-report"></a>
+# Client Report
+
+## Project Context and Problem
+
+Spotted lanternflies (SLFs) create a major problem for vineyards because they can enter grape bins during mechanical harvesting and contaminate the crop. During harvesting, studies found that up to about 60% of SLFs present on vines can be collected directly into grape bins. Even a small number of insect fragments in a sample can cause a juice load to be rejected, which creates economic loss for growers and processors.
+
+Our client-facing problem is therefore not only how to remove SLFs after they appear, but how to prevent them from reaching the grapevines before harvest. Since mechanical harvesting does not allow for careful manual sorting during the process, the design must reduce SLF presence before grapes enter the harvesting system.
+
+## Final Prototype Overview
+
+Our final prototype is a retractable vineyard enclosure designed to protect grapevines from SLFs while still allowing access for harvesting and maintenance. The system uses a horizontally expanding scissor linkage connected to a wheel–rail system. When expanded, the structure supports a mesh barrier around the vines. When contracted, the enclosure opens so workers and harvesting equipment can access the vineyard row.
+
+The main components of the prototype are:
+
+- **Scissor linkage:** allows the enclosure to expand and contract using one primary motion
+- **Mesh enclosure:** acts as the physical barrier preventing SLFs from reaching the vines
+- **Wheel–rail system:** guides the moving frame during expansion and retraction
+- **Rigid support frame:** keeps the structure upright and aligned
+- **Fasteners and joints:** connect the frame, linkage, and moving components
+
+## Design Application
+
+In a real vineyard, this design would be placed along grapevine rows during the growing season. The enclosure would remain expanded when protection is needed, preventing SLFs from landing directly on the vines. Before harvesting or maintenance, the system could retract to allow access.
+
+This approach focuses on prevention rather than reaction. Instead of relying only on pesticides or post-harvest sorting, the enclosure blocks SLFs before they become a contamination problem. The design also preserves airflow and sunlight, which are important for grapevine health.
+
+## Testing Summary
+
+We evaluated the prototype using three main tests: structural stability, wheel–rail motion, and fastener reliability.
+
+### Test 1: Structural Stability
+
+The scissor linkage was tested by adding weights to the center of the structure and observing tilt. The prototype began tilting under lower loads and eventually plateaued around a tilt angle of approximately 10 degrees.
+
+This showed that the current linkage can still function, but it lacks enough stiffness for long-term outdoor use. The wooden/faux-wood linkage used in the prototype was useful for proof-of-concept testing, but a future version should use a stronger material such as Aluminum 6061.
+
+### Test 2: Wheel–Rail Motion
+
+The wheel–rail system was tested through 10 expansion and contraction cycles. The system moved smoothly during the first few cycles, but jamming increased in later cycles.
+
+This suggests that the concept works, but alignment is a major factor. Small misalignments can accumulate during repeated motion and cause the moving frame to jam. Future iterations should improve rail tolerances, add alignment guides, and use motorized actuation to create more consistent motion.
+
+### Test 3: Fastener Reliability
+
+Fasteners were inspected after repeated motion cycles. The number of loosened bolts increased over time, especially in later cycles.
+
+This showed that repeated motion and vibration can loosen the current fasteners. For a field-ready version, the design should use lock nuts, washers, thread-locking adhesive, or other locking mechanisms to improve reliability.
+
+## Client Recommendation
+
+We recommend continuing development of the retractable enclosure design. The prototype successfully demonstrates the core concept: a reusable, retractable barrier that can protect grapevines from SLFs while still allowing access for harvesting.
+
+However, the current prototype should be viewed as a proof of concept rather than a final field-ready product. The design is feasible, but it requires improvements in three main areas:
+
+1. **Structural rigidity:** replace the current linkage material with stronger aluminum components
+2. **Motion reliability:** improve wheel–rail alignment and reduce jamming
+3. **Durability:** add locking fasteners and test the system under repeated outdoor use
+
+## Next Steps
+
+The next iteration should focus on making the system stronger, smoother, and more reliable. Specifically, we would:
+
+- Replace the wooden scissor linkage with Aluminum 6061 or another stronger lightweight material
+- Improve the wheel–rail system so the moving frame stays aligned during operation
+- Add locking nuts, washers, or thread-locking adhesive to prevent fasteners from loosening
+- Integrate motorized actuation for more consistent expansion and contraction
+- Attach and test the mesh barrier under realistic loading and movement conditions
+- Conduct small-scale field testing in vineyard conditions to evaluate performance outdoors
+
+## Final Conclusion
+
+Overall, the retractable enclosure is a promising prevention-based solution for reducing SLF contamination in vineyards. The prototype demonstrates that a scissor linkage and wheel–rail system can create a functional expanding and contracting barrier. While the current version needs improvements in stiffness, alignment, and fastener reliability, the design has a clear path toward becoming a scalable vineyard protection system.
