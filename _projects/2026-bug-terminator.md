@@ -354,6 +354,9 @@ The main components of the prototype are:
 - **Rigid support frame:** keeps the structure upright and aligned
 - **Fasteners and joints:** connect the frame, linkage, and moving components
 
+<img src="assets/images/final_prot.png" width="600" />
+
+
 ## Design Application
 
 In a real vineyard, this design would be placed along grapevine rows during the growing season. The enclosure would remain expanded when protection is needed, preventing SLFs from landing directly on the vines. Before harvesting or maintenance, the system could retract to allow access.
@@ -370,17 +373,25 @@ The scissor linkage was tested by adding weights to the center of the structure 
 
 This showed that the current linkage can still function, but it lacks enough stiffness for long-term outdoor use. The wooden/faux-wood linkage used in the prototype was useful for proof-of-concept testing, but a future version should use a stronger material such as Aluminum 6061.
 
+<img src="assets/images/test_1.png" width="600" />
+
 ### Test 2: Wheel–Rail Motion
 
 The wheel–rail system was tested through 10 expansion and contraction cycles. The system moved smoothly during the first few cycles, but jamming increased in later cycles.
 
 This suggests that the concept works, but alignment is a major factor. Small misalignments can accumulate during repeated motion and cause the moving frame to jam. Future iterations should improve rail tolerances, add alignment guides, and use motorized actuation to create more consistent motion.
 
+<img src="assets/images/test_2.png" width="600" />
+
+
 ### Test 3: Fastener Reliability
 
 Fasteners were inspected after repeated motion cycles. The number of loosened bolts increased over time, especially in later cycles.
 
 This showed that repeated motion and vibration can loosen the current fasteners. For a field-ready version, the design should use lock nuts, washers, thread-locking adhesive, or other locking mechanisms to improve reliability.
+
+<img src="assets/images/test_3.png" width="600" />
+
 
 ## Client Recommendation
 
