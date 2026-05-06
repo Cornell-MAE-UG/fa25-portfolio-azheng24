@@ -354,7 +354,7 @@ The main components of the prototype are:
 - **Rigid support frame:** keeps the structure upright and aligned
 - **Fasteners and joints:** connect the frame, linkage, and moving components
 
-<img src="assets/images/final_prot.png" width="600" />
+<img src="assets/images/final_prot.jpg" width="600" />
 
 
 ## Design Application
